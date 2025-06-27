@@ -17,10 +17,13 @@ O conteúdo textual foi desenvolvido com auxílio do Gamma, respeitando uma ling
 
 🚀 Resultados
 
-E-book com 9 seções, incluindo introdução, capítulos temáticos, anexos e conclusão
-Linguagem clara e acessível para iniciantes na área de dados
-Layout e estrutura organizados visualmente com o Gamma
-Pronto para se tornar um produto digital gratuito ou base de um curso introdutório
+E-book com 9 seções, incluindo introdução, capítulos temáticos, anexos e conclusão.
+
+Linguagem clara e acessível para iniciantes na área de dados.
+
+Layout e estrutura organizados visualmente com o Gamma.
+
+Pronto para se tornar um produto digital gratuito ou base de um curso introdutório.
 
 💭 Reflexão
 
