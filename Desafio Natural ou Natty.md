@@ -7,6 +7,7 @@ Este projeto é um e-book introdutório voltado para pessoas que estão começan
 🤖 Tecnologias Utilizadas
 
 ChatGPT (GPT-4o) — Para criação do escopo completo 
+
 Gamma.app —  Para geração e refinamento do conteúdo textual e layout do e-book de forma visual e interativa
 
 🧐 Processo de Criação
