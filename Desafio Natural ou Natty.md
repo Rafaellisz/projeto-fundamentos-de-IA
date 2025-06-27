@@ -17,7 +17,7 @@ O conteúdo textual foi desenvolvido com auxílio do Gamma, respeitando uma ling
 
 🚀 Resultados
 
-E-book com 9 seções, incluindo introdução, capítulos temáticos, anexos e conclusão.
+E-book com introdução, capítulos temáticos, anexos e conclusão.
 
 Linguagem clara e acessível para iniciantes na área de dados.
 
